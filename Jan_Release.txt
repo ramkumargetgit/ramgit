@@ -1,2 +1,6 @@
 First Jenkins_Githun integration
+<<<<<<< Updated upstream
 stash pop test 
+=======
+test for stash
+>>>>>>> Stashed changes
